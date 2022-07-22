@@ -1,0 +1,15 @@
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\bin\Debug\net6.0\WindowSortArray.exe
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\bin\Debug\net6.0\WindowSortArray.deps.json
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\bin\Debug\net6.0\WindowSortArray.runtimeconfig.json
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\bin\Debug\net6.0\WindowSortArray.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\bin\Debug\net6.0\ref\WindowSortArray.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\bin\Debug\net6.0\WindowSortArray.pdb
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\obj\Debug\net6.0\WindowSortArray.csproj.AssemblyReference.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\obj\Debug\net6.0\WindowSortArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\obj\Debug\net6.0\WindowSortArray.AssemblyInfoInputs.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\obj\Debug\net6.0\WindowSortArray.AssemblyInfo.cs
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\obj\Debug\net6.0\WindowSortArray.csproj.CoreCompileInputs.cache
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\obj\Debug\net6.0\WindowSortArray.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\obj\Debug\net6.0\ref\WindowSortArray.dll
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\obj\Debug\net6.0\WindowSortArray.pdb
+E:\University\Term 8\Advance Algorithm (seyed javadi)\Exam Code\WindowSortArray\WindowSortArray\WindowSortArray\obj\Debug\net6.0\WindowSortArray.genruntimeconfig.cache
